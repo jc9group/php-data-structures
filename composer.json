@@ -1,0 +1,22 @@
+{
+  "name": "jc9/php-data-structures",
+  "description": "Lib with some data structures",
+  "type": "library",
+  "require": {
+    "php": ">=7.2",
+    "ext-json": "^1.6"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Konstantin Aleksandrov",
+      "email": "aleksandrov_kons@inbox.ru"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Jc9\\DataStructures\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}

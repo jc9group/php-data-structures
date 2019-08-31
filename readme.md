@@ -1,0 +1,10 @@
+# PHP data structures helper lib
+
+## Enum
+
+Available enum types:
+- `StringEnum` - string enum values
+- `IntEnum` - int enum values
+- `BoolEnum` - boolean enum values
+- `FloatEnum` - only float enum values
+- `NumericEnum` - numeric enum values
