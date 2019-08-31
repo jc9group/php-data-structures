@@ -1,5 +1,5 @@
 {
-  "name": "jc9/php-data-structures",
+  "name": "jc9group/php-data-structures",
   "description": "Lib with some data structures",
   "type": "library",
   "require": {
@@ -15,7 +15,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Jc9\\DataStructures\\": "src/"
+      "Jc9Group\\DataStructures\\": "src/"
     }
   },
   "minimum-stability": "stable"

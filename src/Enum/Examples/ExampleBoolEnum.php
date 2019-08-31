@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Jc9\DataStructures\Enum\Examples;
+namespace Jc9Group\DataStructures\Enum\Examples;
 
-use Jc9\DataStructures\Enum\BoolEnum;
+use Jc9Group\DataStructures\Enum\BoolEnum;
 
 final class ExampleBoolEnum extends BoolEnum
 {

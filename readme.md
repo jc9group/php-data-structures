@@ -2,7 +2,7 @@
 
 ## Enum
 
-Available enum types (`Jc9\DataStructures\Enum` namespace):
+Available enum types (`Jc9Group\DataStructures\Enum` namespace):
 - `StringEnum` - string enum values
 - `IntEnum` - int enum values
 - `BoolEnum` - boolean enum values

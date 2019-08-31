@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Jc9\DataStructures\Enum\Examples;
+namespace Jc9Group\DataStructures\Enum\Examples;
 
-use Jc9\DataStructures\Enum\StringEnum;
+use Jc9Group\DataStructures\Enum\StringEnum;
 
 final class ExampleStringEnum extends StringEnum
 {

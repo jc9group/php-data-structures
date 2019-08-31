@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Jc9\DataStructures\Enum;
+namespace Jc9Group\DataStructures\Enum;
 
 abstract class FloatEnum extends Enum
 {
