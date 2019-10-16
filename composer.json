@@ -4,7 +4,7 @@
   "type": "library",
   "require": {
     "php": ">=7.2",
-    "ext-json": "^1.6"
+    "ext-json": "^1.5"
   },
   "license": "MIT",
   "authors": [
