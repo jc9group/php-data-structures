@@ -3,7 +3,7 @@
   "description": "Lib with some data structures",
   "type": "library",
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.1",
     "ext-json": "^1.5"
   },
   "license": "MIT",
