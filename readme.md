@@ -11,6 +11,3 @@
 ## Value objects
 - [`Id`](src/ValueObjects/Id.php) - Entity Id object
 - [`Email`](src/ValueObjects/Email.php) - Email object
-
-## Exceptions
-- [`Exception`](src/Exceptions/Exception.php) - Base exception with factory method
