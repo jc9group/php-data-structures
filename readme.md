@@ -2,12 +2,12 @@
 
 ## Enums
 
-- [`StringEnum`](/Enum/StringEnum.php) - string enum values
-- [`IntEnum`](/Enum/IntEnum.php) - int enum values
-- [`BoolEnum`](/Enum/BoolEnum.php) - boolean enum values
-- [`FloatEnum`](/Enum/FloatEnum.php) - only float enum values
-- [`NumericEnum`](/Enum/NumericEnum.php) - numeric enum values
+- [`StringEnum`](src/Enum/StringEnum.php) - string enum values
+- [`IntEnum`](src/Enum/IntEnum.php) - int enum values
+- [`BoolEnum`](src/Enum/BoolEnum.php) - boolean enum values
+- [`FloatEnum`](src/Enum/FloatEnum.php) - only float enum values
+- [`NumericEnum`](src/Enum/NumericEnum.php) - numeric enum values
 
 ## Value objects
-- [`Id`](/ValueObjects/Id.php) - Entity Id object
-- [`Email`](/ValueObjects/Email.php) - Email object
+- [`Id`](src/ValueObjects/Id.php) - Entity Id object
+- [`Email`](src/ValueObjects/Email.php) - Email object
