@@ -29,9 +29,9 @@ class Id implements \JsonSerializable
     {
         return $this->value;
     }
-    
-    public function isEqual(Id $id): bool
+
+    public function isEqual(self $id): bool
     {
-        return $this->value === (string)$id;
+        return (string)$this === (string)$id;
     }
 }
